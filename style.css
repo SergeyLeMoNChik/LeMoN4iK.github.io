@@ -1,0 +1,25 @@
+body{
+    background-image: url(image/background.jpg);
+    background-size: cover;
+}
+
+.container{
+    padding-top: 100px;
+}
+.row{
+    padding-top: 20px;
+}
+
+.about_me{
+    padding-top: 250px; 
+}
+
+.skill{
+    padding-top: 50px;
+}
+
+.kartochka{
+    border:solid rgb(129, 10, 158);
+}
+
+

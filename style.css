@@ -20,6 +20,12 @@ body{
 
 .kartochka{
     border:solid rgb(129, 10, 158);
+    box-shadow: 0 0 .1rem #fff,
+                0 0 .2rem #fff,
+                0 0 2rem #dc0ed2,
+                0 0 0.8rem #dc0ed2,
+                0 0 2.8rem #dc0ed2,
+                inset 0 0 1.3rem #dc0ed2;
 }
 
 

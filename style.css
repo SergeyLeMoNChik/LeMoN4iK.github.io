@@ -28,4 +28,10 @@ body{
                 inset 0 0 1.3rem #dc0ed2;
 }
 
+.icon_right{
+    padding-left: 50px;
+}
+.icon_left{
+    padding-right: 50px;
+}
 
